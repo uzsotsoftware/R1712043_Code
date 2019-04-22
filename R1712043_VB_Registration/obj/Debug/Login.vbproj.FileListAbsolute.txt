@@ -1,0 +1,24 @@
+Z:\VisualBasic\Login\Login\bin\Debug\Login.exe.config
+Z:\VisualBasic\Login\Login\obj\Debug\Login.lblLogin.resources
+Z:\VisualBasic\Login\Login\obj\Debug\Login.Resources.resources
+Z:\VisualBasic\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+Z:\VisualBasic\Login\Login\bin\Debug\Login.exe
+Z:\VisualBasic\Login\Login\bin\Debug\Login.pdb
+Z:\VisualBasic\Login\Login\bin\Debug\Login.xml
+Z:\VisualBasic\Login\Login\obj\Debug\Login.exe
+Z:\VisualBasic\Login\Login\obj\Debug\Login.xml
+Z:\VisualBasic\Login\Login\obj\Debug\Login.pdb
+Z:\VisualBasic\Login\Login\obj\Debug\Login.FrmRegistration.resources
+Z:\VisualBasic\Login\Login\obj\Debug\Login.FrmMenu.resources
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\obj\Debug\Login.exe
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\obj\Debug\Login.xml
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\obj\Debug\Login.pdb
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\bin\Debug\Login.exe
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\bin\Debug\Login.pdb
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\bin\Debug\Login.xml
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\obj\Debug\Login.lblLogin.resources
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\obj\Debug\Login.FrmRegistration.resources
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\obj\Debug\Login.FrmMenu.resources
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\Jerry\Desktop\Coding holiday thing\VB Assign\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache

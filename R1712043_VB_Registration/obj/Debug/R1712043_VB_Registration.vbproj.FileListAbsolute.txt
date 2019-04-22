@@ -1,0 +1,12 @@
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\bin\Debug\Login.exe.config
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\obj\Debug\Login.exe
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\obj\Debug\Login.xml
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\obj\Debug\Login.pdb
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\bin\Debug\Login.exe
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\bin\Debug\Login.pdb
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\bin\Debug\Login.xml
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\obj\Debug\Login.lblLogin.resources
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\obj\Debug\Login.FrmRegistration.resources
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\obj\Debug\Login.FrmMenu.resources
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\obj\Debug\Login.Resources.resources
+C:\Users\Jerry\Documents\Visual Studio 2012\Projects\R1712043_VB_Registration\obj\Debug\R1712043_VB_Registration.vbproj.GenerateResource.Cache
